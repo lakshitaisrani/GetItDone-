@@ -47,12 +47,11 @@ The application also includes an **Idea Inbox** for quickly capturing thoughts, 
 
 ---
 
-# Run and deploy your AI Studio app
+## View the Project in Google AI Studio
 
-This contains everything you need to run your app locally.
+The original project was built using Google AI Studio.
 
-View your app in AI Studio:
-
+Project Link:
 https://ai.studio/apps/1608cc22-9fce-4419-bb32-eeac198ed478
 
 ## Run Locally
